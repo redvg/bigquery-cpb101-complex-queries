@@ -1,0 +1,62 @@
+[
+  {
+    "airline": "9E",
+    "foo": "7"
+  },
+  {
+    "airline": "AA",
+    "foo": "59"
+  },
+  {
+    "airline": "B6",
+    "foo": "8"
+  },
+  {
+    "airline": "CO",
+    "foo": "14"
+  },
+  {
+    "airline": "DL",
+    "foo": "58"
+  },
+  {
+    "airline": "EV",
+    "foo": "2"
+  },
+  {
+    "airline": "F9",
+    "foo": "2"
+  },
+  {
+    "airline": "FL",
+    "foo": "20"
+  },
+  {
+    "airline": "MQ",
+    "foo": "54"
+  },
+  {
+    "airline": "NW",
+    "foo": "20"
+  },
+  {
+    "airline": "OH",
+    "foo": "40"
+  },
+  {
+    "airline": "UA",
+    "foo": "21"
+  },
+  {
+    "airline": "US",
+    "foo": "42"
+  },
+  {
+    "airline": "XE",
+    "foo": "2"
+  },
+  {
+    "airline": "YV",
+    "foo": "1"
+  }
+]

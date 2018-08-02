@@ -1,0 +1,77 @@
+[
+  {
+    "airline": "YV",
+    "total": "1",
+    "delayed": "0"
+  },
+  {
+    "airline": "XE",
+    "total": "2",
+    "delayed": "1"
+  },
+  {
+    "airline": "EV",
+    "total": "2",
+    "delayed": "1"
+  },
+  {
+    "airline": "F9",
+    "total": "2",
+    "delayed": "1"
+  },
+  {
+    "airline": "9E",
+    "total": "7",
+    "delayed": "4"
+  },
+  {
+    "airline": "US",
+    "total": "42",
+    "delayed": "4"
+  },
+  {
+    "airline": "CO",
+    "total": "14",
+    "delayed": "6"
+  },
+  {
+    "airline": "B6",
+    "total": "8",
+    "delayed": "7"
+  },
+  {
+    "airline": "NW",
+    "total": "20",
+    "delayed": "9"
+  },
+  {
+    "airline": "OH",
+    "total": "40",
+    "delayed": "9"
+  },
+  {
+    "airline": "DL",
+    "total": "58",
+    "delayed": "10"
+  },
+  {
+    "airline": "UA",
+    "total": "21",
+    "delayed": "11"
+  },
+  {
+    "airline": "FL",
+    "total": "20",
+    "delayed": "14"
+  },
+  {
+    "airline": "AA",
+    "total": "59",
+    "delayed": "20"
+  },
+  {
+    "airline": "MQ",
+    "total": "54",
+    "delayed": "23"
+  }
+]
