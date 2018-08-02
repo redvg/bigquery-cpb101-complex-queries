@@ -1,0 +1,97 @@
+[
+  {
+    "airline": "AA",
+    "delayed": "39611",
+    "total": "73579"
+  },
+  {
+    "airline": "TZ",
+    "delayed": "2952",
+    "total": "4889"
+  },
+  {
+    "airline": "9E",
+    "delayed": "1404",
+    "total": "2638"
+  },
+  {
+    "airline": "F9",
+    "delayed": "1799",
+    "total": "2571"
+  },
+  {
+    "airline": "EV",
+    "delayed": "836",
+    "total": "1395"
+  },
+  {
+    "airline": "UA",
+    "delayed": "13114",
+    "total": "25781"
+  },
+  {
+    "airline": "WN",
+    "delayed": "1344",
+    "total": "2392"
+  },
+  {
+    "airline": "CO",
+    "delayed": "8239",
+    "total": "14568"
+  },
+  {
+    "airline": "OO",
+    "delayed": "24",
+    "total": "39"
+  },
+  {
+    "airline": "YV",
+    "delayed": "1243",
+    "total": "2059"
+  },
+  {
+    "airline": "NW",
+    "delayed": "13598",
+    "total": "21027"
+  },
+  {
+    "airline": "B6",
+    "delayed": "4437",
+    "total": "7621"
+  },
+  {
+    "airline": "MQ",
+    "delayed": "31254",
+    "total": "56305"
+  },
+  {
+    "airline": "DL",
+    "delayed": "39877",
+    "total": "77888"
+  },
+  {
+    "airline": "XE",
+    "delayed": "2089",
+    "total": "3677"
+  },
+  {
+    "airline": "DH",
+    "delayed": "718",
+    "total": "1515"
+  },
+  {
+    "airline": "OH",
+    "delayed": "17675",
+    "total": "30812"
+  },
+  {
+    "airline": "US",
+    "delayed": "25470",
+    "total": "53858"
+  },
+  {
+    "airline": "FL",
+    "delayed": "10991",
+    "total": "18586"
+  }
+]
