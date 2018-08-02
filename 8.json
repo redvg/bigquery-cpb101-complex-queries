@@ -1,0 +1,116 @@
+[
+  {
+    "airline": "US",
+    "delayed": "25470",
+    "total": "53858",
+    "ratio": "0.47291024546028443"
+  },
+  {
+    "airline": "DH",
+    "delayed": "718",
+    "total": "1515",
+    "ratio": "0.4739273927392739"
+  },
+  {
+    "airline": "UA",
+    "delayed": "13114",
+    "total": "25781",
+    "ratio": "0.5086691749738179"
+  },
+  {
+    "airline": "DL",
+    "delayed": "39877",
+    "total": "77888",
+    "ratio": "0.5119787387017255"
+  },
+  {
+    "airline": "9E",
+    "delayed": "1404",
+    "total": "2638",
+    "ratio": "0.5322213798332069"
+  },
+  {
+    "airline": "AA",
+    "delayed": "39611",
+    "total": "73579",
+    "ratio": "0.538346539094035"
+  },
+  {
+    "airline": "MQ",
+    "delayed": "31254",
+    "total": "56305",
+    "ratio": "0.5550839179468964"
+  },
+  {
+    "airline": "WN",
+    "delayed": "1344",
+    "total": "2392",
+    "ratio": "0.5618729096989966"
+  },
+  {
+    "airline": "CO",
+    "delayed": "8239",
+    "total": "14568",
+    "ratio": "0.5655546403075233"
+  },
+  {
+    "airline": "XE",
+    "delayed": "2089",
+    "total": "3677",
+    "ratio": "0.5681261898286647"
+  },
+  {
+    "airline": "OH",
+    "delayed": "17675",
+    "total": "30812",
+    "ratio": "0.5736401402051149"
+  },
+  {
+    "airline": "B6",
+    "delayed": "4437",
+    "total": "7621",
+    "ratio": "0.5822070594410182"
+  },
+  {
+    "airline": "FL",
+    "delayed": "10991",
+    "total": "18586",
+    "ratio": "0.5913590874852039"
+  },
+  {
+    "airline": "EV",
+    "delayed": "836",
+    "total": "1395",
+    "ratio": "0.5992831541218638"
+  },
+  {
+    "airline": "YV",
+    "delayed": "1243",
+    "total": "2059",
+    "ratio": "0.6036911121903836"
+  },
+  {
+    "airline": "TZ",
+    "delayed": "2952",
+    "total": "4889",
+    "ratio": "0.6038044589895685"
+  },
+  {
+    "airline": "OO",
+    "delayed": "24",
+    "total": "39",
+    "ratio": "0.6153846153846154"
+  },
+  {
+    "airline": "NW",
+    "delayed": "13598",
+    "total": "21027",
+    "ratio": "0.6466923479336092"
+  },
+  {
+    "airline": "F9",
+    "delayed": "1799",
+    "total": "2571",
+    "ratio": "0.6997277323998444"
+  }
+]
