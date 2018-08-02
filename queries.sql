@@ -1,5 +1,5 @@
 /*
-delays from La Guardia
+    1. delays from La Guardia
 */
 
 SELECT
@@ -15,7 +15,7 @@ LIMIT
   100
   
 /*
-returns the total number of flights (each flight has departure delay?) by each airline from La Guardia,
+    2. returns the total number of flights (each flight has departure delay?) by each airline from La Guardia,
 */
   
 SELECT
@@ -31,7 +31,7 @@ GROUP BY
 ORDER BY airline
 
 /*
-returns the total number of DELAYED flights by each airline from La Guardia
+    3. returns the total number of DELAYED flights by each airline from La Guardia
 */
 
 SELECT
@@ -48,7 +48,7 @@ GROUP BY
 ORDER BY airline
 
 /*
-return both the number delayed as well as the total number of flights
+    4. return both the number delayed as well as the total number of flights
 */
 
 SELECT
@@ -63,7 +63,7 @@ GROUP BY
   airline
 
 /*
-order by most delays ratio
+    5. order by most delays ratio
 */
 
 SELECT
@@ -81,5 +81,21 @@ GROUP BY
   airline
 ORDER BY
   delayed/total DESC
+
+/*
+         6. return rainy days from nearest weather station    
+*/
+
+SELECT
+  CONCAT(CAST(year AS STRING), '-', LPAD(CAST(month AS STRING),
+      2,
+      '0'), '-', LPAD(CAST(day AS STRING),
+      2,
+      '0')) AS rainyday
+FROM
+  `bigquery-samples.weather_geo.gsod`
+WHERE
+  station_number = 725030
+  AND total_precipitation > 0
 
 
