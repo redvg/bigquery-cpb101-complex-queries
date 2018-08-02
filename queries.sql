@@ -62,4 +62,24 @@ WHERE
 GROUP BY
   airline
 
+/*
+order by most delays ratio
+*/
+
+SELECT
+  airline,
+  COUNT(departure_delay) AS total,
+  SUM(IF(departure_delay > 0,
+      1,
+      0)) AS delayed
+FROM
+  `bigquery-samples.airline_ontime_data.flights`
+WHERE
+  departure_airport = 'LGA'
+  AND date = '2008-05-13'
+GROUP BY
+  airline
+ORDER BY
+  delayed/total DESC
+
 
